@@ -51,12 +51,12 @@ Rozhodl jsem se, že nebudu mít jen jednu síť, ale rozdělím to na dvě pás
 
 ## Měření 1: Kabelové připojení (Referenční)
 Kabel je základ. Tady jsem naměřil maximální rychlost. Je to nejstabilnější způsob připojení.
- **<img width="211" height="86" alt="Snímek obrazovky 2026-05-14 194021" src="https://github.com/user-attachments/assets/8eb93d6e-7911-459e-8e75-31d071915b90" />**
+ **<img width="442" height="184" alt="Snímek obrazovky 2026-05-14 194021" src="https://github.com/user-attachments/assets/8eb93d6e-7911-459e-8e75-31d071915b90" />**
 
 
 ## Měření 2: Wi-Fi 5 GHz (V obýváku)
 Tady mě překvapilo, jak blízko se rychlost blíží kabelu. Na běžnou práci i streamování je to naprosto ideální.
-**<img width="405" height="185" alt="Snímek obrazovky 2026-05-14 193249" src="https://github.com/user-attachments/assets/42c4f094-7f45-4848-bfe9-53e204ba5a7e" />**
+**<img width="442" height="184" alt="Snímek obrazovky 2026-05-14 193249" src="https://github.com/user-attachments/assets/42c4f094-7f45-4848-bfe9-53e204ba5a7e" />**
 
 
 ## Měření 3: Wi-Fi 2.4 GHz (V kuchyni přes stěnu)
