@@ -67,7 +67,6 @@ Tady je vidět propad rychlosti kvůli vzdálenosti a překážkám, ale signál
 
 # Analýza okolních sítí (Prostředí panelového domu)
 Bydlím v paneláku, takže kolem mě je spousta dalších Wi-Fi sítí. Použil jsem aplikaci **WiFi Analyzer**, abych zjistil, jak moc se moje síť "pere" s ostatními.
-
 **<img width="733" height="354" alt="Snímek obrazovky 2026-05-14 195512" src="https://github.com/user-attachments/assets/1b0596c1-0849-4c67-88c7-a4430575568f" />
 
 
