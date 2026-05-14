@@ -7,7 +7,8 @@
 # Úvodní slovo a cíle projektu
 Když jsem začínal, router pro mě byl jen "černá krabička s anténami", která prostě nějak funguje. Cílem tohoto projektu bylo podívat se pod kapotu a zkusit si celou tu věc nastavit úplně od nuly. Chtěl jsem pochopit, proč se někdy Wi-Fi seká, jaký je rozdíl mezi těmi všemi čísly v nastavení a hlavně si vyzkoušet, jestli zvládnu zabezpečit síť tak, aby byla jenom moje.
 
-**Co jsem si od projektu sliboval:**
+**Co jsem si od projektu sliboval:** <img width="733" height="354" alt="Snímek obrazovky 2026-05-14 195512" src="https://github.com/user-attachments/assets/20fe27e8-60d7-4b43-be9f-23b1447298ba" />
+
 * Že se naučím router správně zapojit a oživit.
 * Že pochopím rozdíly mezi frekvencemi (2.4 GHz vs 5 GHz).
 * Že si sám změřím, jestli moje nastavení k něčemu bylo.
