@@ -1,3 +1,4 @@
+<img width="442" height="184" alt="Snímek obrazovky 2026-05-14 194707" src="https://github.com/user-attachments/assets/b28090d4-43b7-4f88-b2ab-b18f34211ab1" />
 # Dokumentace k projektu: Domácí síť a konfigurace routeru
 > **Autor:** Dominik Malošík  
 > **Téma:** Praktické nastavení a optimalizace TP-Link Archer C6 v reálném prostředí
@@ -61,7 +62,7 @@ Tady mě překvapilo, jak blízko se rychlost blíží kabelu. Na běžnou prác
 
 ## Měření 3: Wi-Fi 2.4 GHz (V kuchyni přes stěnu)
 Tady je vidět propad rychlosti kvůli vzdálenosti a překážkám, ale signál je pořád stabilní.
-**<img width="442" height="184" alt="Snímek obrazovky 2026-05-14 194707" src="https://github.com/user-attachments/assets/4317a9bc-429b-4ecc-b21e-a98c34810046" />**
+**<img width="442" height="184" alt="Snímek obrazovky 2026-05-14 194707" src="https://github.com/user-attachments/assets/b28090d4-43b7-4f88-b2ab-b18f34211ab1" />**
 
 ---
 
