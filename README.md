@@ -49,7 +49,7 @@ Rozhodl jsem se, že nebudu mít jen jednu síť, ale rozdělím to na dvě pás
 *Zde jsou výsledky mých měření, které potvrzují, že nastavení proběhlo správně.*
 
 ## Měření 1: Kabelové připojení (Referenční)
-Kabel je základ. Tady jsem naměřil maximální rychlost, kterou mi poskytovatel dovolí. Je to nejstabilnější způsob připojení.
+Kabel je základ. Tady jsem naměřil maximální rychlost. Je to nejstabilnější způsob připojení.
  **<img width="405" height="185" alt="Snímek obrazovky 2026-05-14 194021" src="https://github.com/user-attachments/assets/b38d4422-40f3-4825-b3a2-bec4a78c4691" />**
 
 
